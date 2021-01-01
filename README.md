@@ -3,7 +3,7 @@
 
 # Hi, I'm Anyi 👋.
 
-I am a PhD student at Auburn University, USA.
+I am a PhD student at Auburn University, USA
 
 My research interests: Machine Learning&Statics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
 
