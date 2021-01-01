@@ -5,7 +5,7 @@
 
 I am a PhD student at Auburn University, USA
 
-My research interests: Machine Learning&Statics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
+**My research interests**: Machine Learning&Statics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
 
 ### Interesting stats
 
