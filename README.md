@@ -7,6 +7,8 @@ I am a PhD student at Auburn University, USA
 
 **My research interests**: Machine Learning&Statics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
 
+Welcome to visit our Lab page: [AIMS Lab](www.auaims.net)
+
 ### Interesting stats
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
