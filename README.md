@@ -8,7 +8,9 @@ I am a PhD student at Auburn University, USA
 **My research interests**: Machine Learning&Statistics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
 
 Welcome to visit our Lab page: [AIMS Lab](www.auaims.net)
-
+### About me:
+- [ResearchGate](https://www.researchgate.net/profile/Anyi_Li2)
+- [Google Scholar](https://scholar.google.com/citations?user=MZMFRPUAAAAJ&hl=en&oi=ao)
 ### Interesting stats
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
