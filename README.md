@@ -13,6 +13,6 @@ Welcome to visit our Lab page: [AIMS Lab](www.auaims.net)
 - [Google Scholar](https://scholar.google.com/citations?user=MZMFRPUAAAAJ&hl=en&oi=ao)
 ### Interesting stats
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
+![Anyi's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
 
 ---
