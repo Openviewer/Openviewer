@@ -14,5 +14,8 @@ Welcome to visit our Lab page: [AIMS Lab](www.auaims.net)
 ### Interesting stats
 
 ![Anyi's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
-
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Openviewer" />
+<br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Openviewer.Openviewer" />
 ---
