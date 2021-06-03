@@ -11,6 +11,7 @@ Welcome to visit our Lab page: [AIMS Lab](www.auaims.net)
 ### About me:
 - [ResearchGate](https://www.researchgate.net/profile/Anyi_Li2)
 - [Google Scholar](https://scholar.google.com/citations?user=MZMFRPUAAAAJ&hl=en&oi=ao)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anyi-ryan-li-0a9739175/)
 ### Interesting stats
 
 ![Anyi's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
