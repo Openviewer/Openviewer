@@ -12,6 +12,13 @@ Welcome to visit our Lab page: [AIMS Lab](www.auaims.net)
 - [ResearchGate](https://www.researchgate.net/profile/Anyi_Li2)
 - [Google Scholar](https://scholar.google.com/citations?user=MZMFRPUAAAAJ&hl=en&oi=ao)
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anyi-ryan-li-0a9739175/)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/static/v1?style=flat-square&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![Overleaf](https://img.shields.io/static/v1?style=flat-square&message=Overleaf&color=47A141&logo=Overleaf&logoColor=FFFFFF&label=)
 ### Interesting stats
 
 ![Anyi's stats](https://github-readme-stats.vercel.app/api?username=Openviewer&show_icons=true)
