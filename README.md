@@ -5,7 +5,7 @@
 
 I am a PhD student at Auburn University, USA
 
-**My research interests**: Machine Learning&Statistics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
+**My research interests**: Deep Learning, Machine Learning&Statistics|System Optimization|Quantium Physics|3D printing|Robotics 🤖
 
 Welcome to visit our Lab page: [AIMS Lab](https://auaims.net)
 ### About me:
